@@ -1,0 +1,2 @@
+# Preserve exact package bytes so SHA256.json works on every platform.
+* -text
