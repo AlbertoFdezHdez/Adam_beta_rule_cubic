@@ -1,7 +1,4 @@
 __pycache__/
 *.pyc
 .venv/
-reconstructed_*
-dense_audit.json
-strength_numerical.json
-strength_trajectory.json
+results/
